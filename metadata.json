@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GIF Collection Generator",
+  "description": "Generate a collection of GIF concepts and keyframes based on a theme using AI. Describe a topic, and the AI will brainstorm ideas and visualize them as images.",
+  "requestFramePermissions": []
+}
